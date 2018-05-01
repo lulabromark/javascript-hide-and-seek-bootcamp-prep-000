@@ -20,7 +20,6 @@ function deepestChild () {
 
   for(let i = 0; i < lis.length; i++) {
     array.push(lis[i])
-
   }
   return array[array.length - 1]
 }
